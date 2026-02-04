@@ -1,0 +1,6 @@
+patient_id,age,resting_blood_pressure,serum_cholesterol_mg_per_dl,max_heart_rate_achieved,oldpeak_eq_st_depression,chest_pain_type,num_major_vessels,resting_ekg_results,slope_of_peak_exercise_st_segment,sex,exercise_induced_angina,fasting_blood_sugar_gt_120_mg_per_dl,thal
+P001,52,130,250,160,1.5,3,0,1,2,1,0,0,normal
+P002,63,145,260,120,2.3,4,2,2,3,1,1,1,reversible_defect
+P003,45,120,220,170,0.0,2,0,0,1,0,0,0,normal
+P004,58,140,240,140,1.9,3,1,1,2,1,1,0,fixed_defect
+P005,41,118,190,180,0.0,1,0,0,1,0,0,0,normal
